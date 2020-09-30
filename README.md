@@ -1,6 +1,8 @@
 # Password Manager
 A simple offline password manager in python using **symmetric encryption** (Fernet see requirements.txt) and **tkinter**
 
+[![main window](rsc/mainWindow.PNG)]
+
 ## How does it work ?
 - Create an account with the register button *(the credentials are stored on your computer ofc the password is encrypted)*
 - Login into your account

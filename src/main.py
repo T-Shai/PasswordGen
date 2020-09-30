@@ -216,7 +216,7 @@ def main():
         # end of bRegister
     mainWindow.addButton(text="Register", command=bRegister)
     mainWindow.leaveBlank(7)
-    mainWindow.addLabel(text="github.com/T-Shai/PasswordGen", font=(DEFAULT_FONT, 8), bg="light blue")
+    mainWindow.addLabel(text="🐱‍👤github.com/T-Shai/PasswordManager🐱‍👤", font=(DEFAULT_FONT, 8), bg="SlateGray2")
     mainWindow.mainloop()
 
 if __name__ == "__main__":
