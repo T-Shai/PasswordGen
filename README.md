@@ -12,6 +12,6 @@ A simple offline password manager in python using **symmetric encryption** (Fern
     - password *(You can enter it yourself or click on generate password to get a really strong password)*
 - Now you can see / delete / modify your password
 
-## knows issues
+## known issues
 - modifying password appends characters to the password
 - selecting a deleted password causes an error *(close and reopen screen)*
